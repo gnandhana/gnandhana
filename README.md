@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm G. Nandhana
 
-<!--
-**gnandhana/gnandhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year BCA Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in Web Development, Artificial Intelligence and Technology.
+
+## 👩‍💻 About Me
+
+- 🎓 Studying Bachelor of Computer Applications (BCA)
+- 💡 Interested in learning new technologies
+- 🚀 Building academic and personal projects
+- 🤝 Always ready to learn and improve my skills
+
+## 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Java
+- C
+
+## 🚀 My Projects
+
+- **PresentIQ AI** – An AI-powered presentation practice website.
+- **Memoir** – A memory timeline website.
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/gnandhana
+
+---
+
+✨ *Learning, building and growing every day!*
